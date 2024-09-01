@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/echlebek/resume" title="Eric Chlebek">
-    <img alt="icon" src="https://github.com/echlebek/resume/raw/master/icon.png" width="200px" height="200px" />
+    <img alt="icon" src="https://github.com/echlebek/resume/raw/master/tree.jpg" width="100px" height="100px" />
   </a>
   <br />
   Eric Chlebek: Software Engineer, Systems Programmer, Open Source Developer
