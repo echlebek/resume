@@ -1,6 +1,6 @@
 <h1 align="center">
-  <a href="https://github.com/posquit0/Awesome-CV" title="AwesomeCV Documentation">
-    <img alt="AwesomeCV" src="https://github.com/posquit0/Awesome-CV/raw/master/icon.png" width="200px" height="200px" />
+  <a href="https://github.com/echlebek/resume" title="AwesomeCV Documentation">
+    <img alt="AwesomeCV" src="https://github.com/echlebek/resume/raw/master/icon.png" width="200px" height="200px" />
   </a>
   <br />
   Awesome CV
@@ -11,19 +11,19 @@
 </p>
 
 <div align="center">
-  <a href="https://www.paypal.me/posquit0">
+  <a href="https://www.paypal.me/echlebek">
     <img alt="Donate" src="https://img.shields.io/badge/Donate-PayPal-blue.svg" />
   </a>
-  <a href="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml">
-    <img alt="GitHub Actions" src="https://github.com/posquit0/Awesome-CV/actions/workflows/main.yml/badge.svg" />
+  <a href="https://github.com/echlebek/resume/actions/workflows/main.yml">
+    <img alt="GitHub Actions" src="https://github.com/echlebek/resume/actions/workflows/main.yml/badge.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf">
+  <a href="https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf">
     <img alt="Example Resume" src="https://img.shields.io/badge/resume-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/cv.pdf">
+  <a href="https://raw.githubusercontent.com/echlebek/resume/master/eric/cv.pdf">
     <img alt="Example CV" src="https://img.shields.io/badge/cv-pdf-green.svg" />
   </a>
-  <a href="https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf">
+  <a href="https://raw.githubusercontent.com/echlebek/resume/master/eric/coverletter.pdf">
     <img alt="Example Coverletter" src="https://img.shields.io/badge/coverletter-pdf-green.svg" />
   </a>
 </div>
@@ -39,7 +39,7 @@
 
 Please help keep this project alive! Donations are welcome and will go towards further development of this project.
 
-    PayPal: paypal.me/posquit0
+    PayPal: paypal.me/echlebek
 
 *Thank you for your support!*
 
@@ -47,19 +47,19 @@ Please help keep this project alive! Donations are welcome and will go towards f
 
 #### Résumé
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)
+You can see [PDF](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/resume.pdf) |
+| [![Résumé](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume-0.png)](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume-1.png)](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf) |
 
 #### Cover Letter
 
-You can see [PDF](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)
+You can see [PDF](https://raw.githubusercontent.com/echlebek/resume/master/eric/coverletter.pdf)
 
 | Without Sections | With Sections |
 |:---:|:---:|
-| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-0.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter-1.png)](https://raw.githubusercontent.com/posquit0/Awesome-CV/master/examples/coverletter.pdf) |
+| [![Cover Letter(Traditional)](https://raw.githubusercontent.com/echlebek/resume/master/eric/coverletter-0.png)](https://raw.githubusercontent.com/echlebek/resume/master/eric/coverletter.pdf)  | [![Cover Letter(Awesome)](https://raw.githubusercontent.com/echlebek/resume/master/eric/coverletter-1.png)](https://raw.githubusercontent.com/echlebek/resume/master/eric/coverletter.pdf) |
 
 
 ## Quick Start
@@ -111,16 +111,16 @@ In either case, this should result in the creation of ``{your-cv}.pdf``
 
 You are free to take my `.tex` file and modify it to create your own resume. Please don't use my resume for anything else without my permission, though!
 
-If you have any questions, feel free to join me at [`#posquit0` on Freenode](irc://irc.freenode.net/posquit0) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/posquit0) to connect.
+If you have any questions, feel free to join me at [`#echlebek` on Freenode](irc://irc.freenode.net/echlebek) and ask away. Click [here](https://kiwiirc.com/client/irc.freenode.net/echlebek) to connect.
 
 Good luck!
 
 
 ## Maintainers
-- [posquit0](https://github.com/posquit0)
+- [echlebek](https://github.com/echlebek)
 - [OJFord](https://github.com/OJFord)
 
 
 ## See Also
 
-* [Awesome Identity](https://github.com/posquit0/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
+* [Awesome Identity](https://github.com/echlebek/hugo-awesome-identity) - A single-page Hugo theme to introduce yourself.
