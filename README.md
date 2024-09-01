@@ -21,9 +21,7 @@
 
 <br />
 
-#### Résumé
-
-[PDF](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)
+#### [Résumé](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)
 
 | Page. 1 | Page. 2 |
 |:---:|:---:|
