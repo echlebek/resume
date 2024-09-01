@@ -7,7 +7,7 @@ RESUME_SRCS = $(shell find $(RESUME_DIR) -name '*.tex')
 
 eric: $(foreach x, coverletter resume, $x.pdf)
 
-resume.pdf: $(EXAMPLES_DIR)/resume.tex $(RESUME_SRCS)
+resume.pdf: $(DIR)/resume.tex $(RESUME_SRCS)
 	$(CC) -output-directory=$(DIR) $<
 
 coverletter.pdf: $(DIR)/coverletter.tex
