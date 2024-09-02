@@ -21,11 +21,7 @@
 
 <br />
 
-#### [Résumé](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)
-
-| Page. 1 | Page. 2 |
-|:---:|:---:|
-| [![Résumé](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume-0.png)](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)  | [![Résumé](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume-1.png)](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf) |
+#### [Résumé PDF](https://raw.githubusercontent.com/echlebek/resume/master/eric/resume.pdf)
 
 
 ## Credits
